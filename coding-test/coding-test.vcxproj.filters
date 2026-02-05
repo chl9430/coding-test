@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="깊이,너비-우선-탐색(DFS,BFS)-게임-맵-최단거리.cpp">
+    <ClCompile Include="스택\스택,큐-올바른-괄호.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
